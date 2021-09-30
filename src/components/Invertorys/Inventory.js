@@ -4,7 +4,7 @@ const Inventory = () => {
     return (
         <div>
 
-            <h1>hei whats up dude</h1>
+            <h1>hei whats up dude page hurah</h1>
         </div>
     );
 };
